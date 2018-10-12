@@ -1,5 +1,5 @@
 # AppleGit
-Testing git deployment of Sketch Libraries with AppleScript. This is probably a bad idea but my options are limited.
+Testing git deployment of Sketch Libraries with AppleScript. In general this is probably a bad idea but my options are limited due to the environment I'm working in.
 
 # The Goal
 Allow non-developers to deploy Sketch Libraries with minimal technical requirements
