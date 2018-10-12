@@ -1,5 +1,5 @@
 # Disclaimer
-*You definitely shouldn't use this!* This project is a work in progress for a very specific problem in a very specific environment, plus it was written by me.
+**You definitely shouldn't use this!** This project is a work in progress for a very specific problem in a very specific environment, plus it was written by me.
 
 # Context
 Sketch have provided the ability to subscribe to libraries via RSS. This is great, it solves a massive problem my current team have been experiencing. The slightly less great part is that we need to deploy a new XML file along with the new sketch library every time we want to update it. This is further complicated as it's a multi-brand environment and ideally we want the designers to be able to deploy new libraries without requiring help from the developers.
