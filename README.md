@@ -12,13 +12,13 @@ So this project is attempting to automate all of the Git-Fu using AppleScript to
 Allow non-developers to deploy Sketch Libraries with minimal technical requirements
 
 # The Plan
-- User runs local AppleScript √
-- User is prompted for Brand, Release Type and Sketch Library √
-- Script creates a temporary folder √
-- Script clones this repo into the temporary folder √
-- Script copies the Sketch Library to the root of the repo √
+- ✓ User runs local AppleScript
+- ✓ User is prompted for Brand, Release Type and Sketch Library
+- ✓ Script creates a temporary folder
+- ✓ Script clones this repo into the temporary folder
+- ✓ Script copies the Sketch Library to the root of the repo
 - Script updates the XML file with the new version number and current date
-- Script makes a copy of the Sketch file within the versions folder √
-- Script commits changes to the repo
-- Script deletes temporary folder √
+- ✓ Script makes a copy of the Sketch file within the versions folder
+- ✓ Script commits changes to the repo
+- ✓ Script deletes temporary folder
 - Somewhere a container gets deployed with the contents of the new repo
